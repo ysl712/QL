@@ -1,0 +1,10 @@
+{
+  "name": "小猪记账",
+  "short_name": "小猪记账",
+  "description": "把每一笔钱钱照顾好",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8fa",
+  "theme_color": "#fff7fa"
+}
